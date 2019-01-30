@@ -15,7 +15,13 @@ public class JavaApplication2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola universo");
+        System.out.println("Hola universo, ");
+        
+        if (true){
+            System.out.println("Mass effect mola");
+        }
+        else
+            System.out.println("Dragon Age mola");
     }
     
 }
