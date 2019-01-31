@@ -18,7 +18,7 @@ public class JavaApplication2 {
         System.out.println("Hola universo, ");
         
         if (true){
-            System.out.println("Mass effect mola");
+            System.out.println("Mass effect 2 mola");
         }
         else
             System.out.println("Dragon Age mola");
